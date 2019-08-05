@@ -1,6 +1,6 @@
 language: python
 cache: pip
-
+dist: trusty
 # Python targets, as defined by https://github.com/travis-ci/travis-build/blob
 # /master/spec/build/script/python_spec.rb and https://github.com/travis-ci
 # /travis-build/blob/master/lib/travis/build/script/python.rb
